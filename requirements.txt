@@ -1,0 +1,8 @@
+black
+flake8
+isort
+pip
+python-dotenv
+setuptools
+wheel
+-e .
