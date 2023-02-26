@@ -1,4 +1,4 @@
 breast_cancer
 ==============================
 
-A short description of the project.
+Detecting breast cancer via association rules.
