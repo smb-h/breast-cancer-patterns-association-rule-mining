@@ -2,6 +2,7 @@ arrow==1.2.3
 asttokens==2.2.1
 attrs==22.2.0
 backcall==0.2.0
+-e git+ssh://git@github.com/smb-h/breast-cancer-association-rules.git@56998ab07e14392b17703719ac244db47f977bf0#egg=bc
 binaryornot==0.4.4
 black==23.1.0
 certifi==2022.12.7
@@ -21,6 +22,7 @@ fastjsonschema==2.16.2
 filelock==3.11.0
 flake8==6.0.0
 fonttools==4.38.0
+graphviz==0.20.1
 idna==3.4
 ipykernel==6.21.2
 ipython==8.10.0
@@ -99,6 +101,7 @@ torchdata==0.6.0
 torchsummary==1.5.1
 torchtext==0.15.1
 torchvision==0.15.1
+torchviz==0.0.2
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.9.0
