@@ -1,0 +1,40 @@
+Double check data and filling methods
+categorize data
+Run ARM algorithm
+
+# ============================================
+
+LB sign 1210 1,2, 10 , ask for categories
+RB sign
+
+age.menarc 0 => 13
+age.menop (ask)
+agef delete
+agehysterectomy dlt
+birthday dlt if age is there
+cc (ask for categories)
+date.other dlt
+datehys dlt
+edu (ask for cat)
+fpragnency nan => 0
+gravity => 0, 1
+hrt => 0, 1
+hystrectomy => 0, 1
+infertility => 0, 1
+kindinfertile dlt
+lactaton nan => 0
+location ask
+marital 4 main cat
+mens (period) 3 cat
+no.biopsy 4 cat => 0 1 2 3
+
+ocp nan, no => 0
+ocpuse 0, 1
+other.CA 0, 1
+personal.Hx 0, 1
+personal.other 0, 1
+reproduct category
+sign ask
+smoking cat
+
+weight, height => bmi
