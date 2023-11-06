@@ -60,3 +60,5 @@ agef
 agehysterectomy
 date.other
 datehys
+kindinfertile
+location
