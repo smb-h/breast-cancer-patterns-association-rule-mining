@@ -38,3 +38,25 @@ sign ask
 smoking cat
 
 weight, height => bmi
+
+
+
+=================
+ASK
+
+LB sign (categories)
+RB sign (categories)
+age.menop
+cc (categories)
+edu (categories)
+location
+sign
+
+==================
+Dropped
+
+age.menop
+agef
+agehysterectomy
+date.other
+datehys
